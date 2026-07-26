@@ -49,4 +49,4 @@ By analyzing employee demographics, job satisfaction ratings, education backgrou
 ### Steps
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard.git](https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard.git)![Uploading image.png…]()
+   git clone [https://github.com/junaidferoz04/HR-Analytics-Dashboard.git](https://github.com/junaidferoz04/HR-Analytics-Dashboard.git)![./Screenshot%202026-07-26%20215048.jpg]()
