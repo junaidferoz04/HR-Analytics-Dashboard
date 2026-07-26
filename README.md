@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard
 
-![Dashboard Preview](./dashboard_preview.jpg)
+![Dashboard Preview](./Screenshot%202026-07-26%20215048.jpg)
 
 ## 📌 Project Overview
 An interactive **HR Analytics Dashboard** developed in **Tableau** to analyze employee attrition patterns, evaluate key performance indicators (KPIs), and assist HR leadership in data-driven workforce planning. 
@@ -25,9 +25,9 @@ By analyzing employee demographics, job satisfaction ratings, education backgrou
 ---
 
 ## 🛠 Tech Stack & Tools Used
-* **Business Intelligence:** Tableau Desktop / Tableau Public
-* **Data Source:** HR Employee Attrition Extract (`.hyper` / `.csv`)
-* **Design & Layout:** Custom UI Background Layout
+* **Business Intelligence:** Tableau Desktop / Tableau Public[cite: 1, 2]
+* **Data Source:** HR Employee Attrition Extract (`TEMP_08l48020wohspu18lairi1ton8tt.hyper` / `.csv`)[cite: 1, 2]
+* **Design & Layout:** Custom Presentation Layout (`Image/HR background.pptx.png`)[cite: 1, 2]
 
 ---
 
@@ -49,4 +49,4 @@ By analyzing employee demographics, job satisfaction ratings, education backgrou
 ### Steps
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard.git](https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard.git)-Dashboard.git](https://github.com/YOUR_USERNAME/HR-Attrition-Analytics-Dashboard.git)
+   git clone [https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard.git](https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard.git)![Uploading image.png…]()
